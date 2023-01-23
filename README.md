@@ -27,9 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/canaleal/Python-Banking-DataProcessor">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+ 
 
 <h3 align="center">Python Banking Data Processor</h3>
 
@@ -109,16 +107,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,4 +124,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-shield]: https://img.shields.io/github/issues/canaleal/Python-Banking-DataProcessor.svg?style=for-the-badge
 [issues-url]: https://github.com/canaleal/Python-Banking-DataProcessor/issues
 [license-shield]: https://img.shields.io/github/license/canaleal/Python-Banking-DataProcessor.svg?style=for-the-badge
-[license-url]: https://github.com/canaleal/Python-Banking-DataProcessor/blob/master/LICENSE.txt
+[license-url]: https://raw.githubusercontent.com/canaleal/Python-Banking-DataProcessor/main/LICENSE
