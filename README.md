@@ -68,7 +68,7 @@ To get a local copy up and running follow these simple example steps.
 View the requirements file to view all the packages required to get the project running. To install the packaged run the following command
 * npm
   ```sh
-  pip install requirements.txt
+  pip install -r requirements.txt
   ```
 
 ### Installation
@@ -80,7 +80,7 @@ View the requirements file to view all the packages required to get the project 
    ```
 3. Install NPM packages
    ```sh
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 4. Enter your Data in `data`
 
